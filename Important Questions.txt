@@ -43,3 +43,8 @@ Reverse Linked List (Leetcode 92)
 Reorder List (Leetcode 143)
 
 Design Circular Ended Deque (Leetcode 641)
+
+
+Maps:
+
+Amount of time for binary tree to get infected
