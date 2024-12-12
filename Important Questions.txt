@@ -1,0 +1,45 @@
+1D Array:
+
+Sort the array of 0 , 1 and 2 (Dutch Flag Algorith) Leetcode 75
+Merge two sorted arrays Leetocde 88
+Next Permutation Leetcodee 31
+Trapping Rainwater Leetocde 42
+
+2D Array:
+
+Matrix to Transpore Leecode 867
+rotate matrix by 90 Leetcode 48
+Spiral Mtrix Leetcode 54
+
+Binary Search:
+
+Peak Index in Mountain Array Leetcode 852
+Search in Rotated Sorted Array Leetcode 33
+Find K closest elements Leetcode 658
+Sum of Square Numbers Leetcode 633
+
+Binary Search on Answer:
+
+Capacity to ship packages with D days Leetcode 1011
+Koko eating bananas Leetcode 875
+Minimum Time to Complete trips Leetcode 2187
+
+Recursion :
+
+Subsets of an array Leetcode 78
+Subsets 2 Leetcode 90
+Combination Sum Leetcode 39
+Generate Parenthesis Leetcode 22
+Kth symbol in grammar Leetcode 779
+Count and Say Leetcode 38
+Permutatioin Sequence Leetcode 60
+
+
+
+Yet to do Questions :
+Sort List (Leetcdoe 148}
+Partition List(Leetcode 86}
+Reverse Linked List (Leetcode 92)
+Reorder List (Leetcode 143)
+
+Design Circular Ended Deque (Leetcode 641)
